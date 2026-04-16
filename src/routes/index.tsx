@@ -38,7 +38,7 @@ function Index() {
           label="Us, Together"
           title="Our Journey"
           description="From the first message to this very moment — every chapter with you has been my favourite."
-          placeholderCount={6}
+          placeholderCount={9}
           accentColor="teal"
         />
       </div>
