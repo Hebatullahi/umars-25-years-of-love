@@ -48,7 +48,7 @@ function Index() {
         label="Through Your Lens"
         title="The Way You See Me"
         description="Every photo you've taken of me holds a piece of your love — here are some of my favourites."
-        placeholderCount={6}
+        placeholderCount={9}
         accentColor="warm"
       />
 
