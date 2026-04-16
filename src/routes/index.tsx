@@ -28,7 +28,7 @@ function Index() {
         label="Through The Years"
         title="Growing Up Umar"
         description="From the cutest little boy to the most handsome man — every version of you has been a masterpiece."
-        placeholderCount={6}
+        placeholderCount={9}
         accentColor="gold"
       />
 
