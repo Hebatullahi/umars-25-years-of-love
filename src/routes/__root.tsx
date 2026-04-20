@@ -32,6 +32,13 @@ export const Route = createRootRoute({
       { title: "Happy 25th Birthday, Umar!" },
       { name: "description", content: "A love letter wrapped in pixels — celebrating Umar's 25th birthday." },
       { property: "og:type", content: "website" },
+      { property: "og:title", content: "Happy 25th Birthday, Umar!" },
+      { name: "twitter:title", content: "Happy 25th Birthday, Umar!" },
+      { property: "og:description", content: "A love letter wrapped in pixels — celebrating Umar's 25th birthday." },
+      { name: "twitter:description", content: "A love letter wrapped in pixels — celebrating Umar's 25th birthday." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/9300ff03-5035-453d-97ef-07f45c628b92/id-preview-6cb59183--3a154521-ec1e-446b-bcf4-b318500891a6.lovable.app-1776358831951.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/9300ff03-5035-453d-97ef-07f45c628b92/id-preview-6cb59183--3a154521-ec1e-446b-bcf4-b318500891a6.lovable.app-1776358831951.png" },
+      { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
