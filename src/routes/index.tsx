@@ -28,7 +28,7 @@ function Index() {
         label="Through The Years"
         title="Growing Up Umar"
         description="From the cutest little boy to the most handsome man — every version of you has been a masterpiece."
-        placeholderCount={9}
+        placeholderCount={6}
         accentColor="gold"
       />
 
@@ -38,7 +38,7 @@ function Index() {
           label="Us, Together"
           title="Our Journey"
           description="From the first message to this very moment — every chapter with you has been my favourite."
-          placeholderCount={9}
+          placeholderCount={6}
           accentColor="teal"
         />
       </div>
@@ -48,7 +48,7 @@ function Index() {
         label="Through Your Lens"
         title="The Way You See Me"
         description="Every photo you've taken of me holds a piece of your love — here are some of my favourites."
-        placeholderCount={9}
+        placeholderCount={6}
         accentColor="warm"
       />
 
